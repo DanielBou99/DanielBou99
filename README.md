@@ -1,5 +1,13 @@
-### Hi there 👋
+### Olá! 👋
 
+✅ Designer e Desenvolvedor, apaixonado pelo que faz!
+✅ Desenvolvimento: Java Web, Spring, Javascript, HTML, CSS, Git, Github, Mysql, ...
+✅ Design: Illustrator, Photoshop e Movavi (Edição de vídeos).
+✅ Também tenho conhecimento sobre Kanban, Scrum, ITIL, Design Thinking e OKR.
+✅ Bacharel em Ciência da Computação.
+✅ Github: https://github.com/DanielBou99?tab=repositories
+
+#FrontEnd#BackEnd#FulkStack#JAVA #Python #HTML #CSS #React #MySQL #Integration #DotNet #PHP #C #CustomerExperience #FrontEnd #BackEnd #Portais #ChatBot #BigData #QA #PHP #Delphi # AnalistaDeSistemas #AnalistaDeProjetos #LiderTécnico #ArquitetoJava #SAP #ABAP #Middleware #RTC #SCM #Processos #IBM Maximo #Android #iOS #AnalistaDeDados #DBA 
 <!--
 **DanielBou99/DanielBou99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
