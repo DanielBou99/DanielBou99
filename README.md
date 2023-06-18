@@ -5,4 +5,4 @@ My name is Daniel, I'm a full stack developer and passionate about technology. S
 - 👯 I would be appreciated to collaborate with new ideas.
 - 💬 Ask me about: tech, english and tv shows.
 - ⚡ Fun fact: I really like the saga "The Red Queen" and "A Court of Thorns and Roses".
-- 📫 How to reach me: https://www.linkedin.com/in/daniel-bou-256530121/
+- 📫 How to reach me: https://www.linkedin.com/in/daniel-bou/
